@@ -8,7 +8,7 @@ version = "2023.11.21"
 dependencies = ["pre-commit"]
 requires-python = ">=3.8"
 authors = [
-    {name = "Stefanie Molin", email = "24376333+stefmolin@users.noreply.github.com"},
+    {name = "Daniel Syahputra", email = "danielsyahputra@users.noreply.github.com"},
 ]
 description = "Nothing to see here."
 readme = "README.md"
